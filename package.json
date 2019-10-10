@@ -1,0 +1,17 @@
+{
+  "name": "jamstack-workshop",
+  "version": "1.0.0",
+  "description": "My premium Nuxt.js project",
+  "author": "davidchuka",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
