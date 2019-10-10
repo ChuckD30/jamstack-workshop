@@ -10,7 +10,6 @@ import Home from '~/components/Home.vue'
 
 export default {
   components: {
-    Logo,
     Home
   }
 }
